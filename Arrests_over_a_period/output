@@ -1,0 +1,12 @@
+
+1.The input file is crimes.csv which is located in the below URL:
+https://drive.google.com/file/d/0B1QaXx7tpw3SaUJHOHBZclBXWG8/view?usp=sharing
+
+Dataset Description:
+----------------------
+ID,Case Number,Date,Block,IUCR,Primary Type,Description,Location Description,Arrest,Domestic,Beat,District,Ward,Community Area,FBICode,X Coordinate,Y Coordinate,Year,Updated On,Latitude,Longitude,Location
+
+2.The results shows number of arrests done between october 2014 and october 2015.
+
+count	62973
+
